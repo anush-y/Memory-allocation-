@@ -1,0 +1,16 @@
+Start address: 38
+Size: 100
+Reference count: 2
+
+Start address: 63
+Size: 150
+Reference count: 1
+
+Start address: 101
+Size: 100
+Reference count: 1
+
+Start address: 0
+Size: 150
+Reference count: 1
+

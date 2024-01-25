@@ -1,0 +1,9 @@
+a = allocate ( 100 ) ; 
+b = allocate ( 50 ) ;
+c = allocate ( 100 ) ;
+d = allocate ( 150 ) ;
+e = allocate ( 100 ) ;
+free ( b ) ;
+free ( c ) ;
+a = g ;
+f = allocate ( 150 ) ;
